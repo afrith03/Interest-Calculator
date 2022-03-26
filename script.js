@@ -1,5 +1,5 @@
 function compute()
-{
+{console.log('calculator is working')
     var principal = document.getElementById("principal").value;
 
     if(principal == "" || principal <= 0)
